@@ -117,7 +117,7 @@ travel-itinerary-planner/
 
 ### Step 1 — Clone / Download
 ```bash
-git clone https://github.com/<your-username>/travel-itinerary-planner.git
+git clone https://github.com/keshavrathore09/travel-itinerary-planner.git
 cd travel-itinerary-planner
 ```
 
