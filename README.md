@@ -165,7 +165,7 @@ The app will open at **http://localhost:8501**
 git init
 git add .
 git commit -m "Initial commit: Travel Itinerary Planner"
-git remote add origin https://github.com/<username>/travel-itinerary-planner.git
+git remote add origin https://github.com/keshavrathore09/travel-itinerary-planner.git
 git push -u origin main
 ```
 
